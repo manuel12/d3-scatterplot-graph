@@ -1,0 +1,17 @@
+body {
+  font-family: "Varela Round";
+}
+
+h1 {
+  text-align: center;
+}
+
+.tooltip {
+  position: absolute;
+  background-color: grey;
+  border-radius: 15px;
+  padding: 10px;
+  width: 200px;
+  height: fit-content;
+  font-size: 0.9rem;
+}
